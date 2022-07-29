@@ -11,17 +11,3 @@ access to the following:
 - **Syllabus**
 - **Details of Subjects**
 
-##
-#### This project is made from the collaboative efforts of
-
-Students of FET-JMI, Batch of 2020-24
-
-- 20BCS074 Arefa
-- 20BCS003 Abbas Haider
-- 20BEE004 Khuban Zehra
-- 20BME012 Nazeed Khan
-- 20BCS002 Aaliyah Beg
-- 20BCS024 Fatima Shafique
-- 20BCS010 Anzil Mufti
-- 20BCS051 Tirth B Dalwadi
-##
